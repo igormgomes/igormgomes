@@ -1,4 +1,4 @@
-## 👋 Welcome to my Github profile.
+## 👋 Hey there
 ### My name is Igor
 
 

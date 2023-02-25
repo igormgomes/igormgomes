@@ -1,5 +1,6 @@
-## 👋 Hey there
-### My name is Igor
+## 👋 Welcome to my GitHub profile :)
+### My name's Igor and I'm a Software Engineer 
+###
 
 
 
